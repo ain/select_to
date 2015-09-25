@@ -1,6 +1,6 @@
 # SelectTo
 
-SelectTo gem creates `<select>` control for navigation. Optionally for AJAX request.
+SelectTo gem is Rails helper that creates `<select>` control for navigation. Optionally for AJAX request.
 
 ## Installation
 
